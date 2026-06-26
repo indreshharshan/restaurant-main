@@ -4,20 +4,6 @@
 
 A modern restaurant website built with the latest Next.js 15, styled with Tailwind CSS, and enhanced with Swiper for smooth, responsive sliders and React Icons for appealing iconography.
 
-## Table of Contents
-
-- [About the Project](#about-the-project)
-- [Features](#features)
-- [Tech Stack](#tech-stack)
-- [Getting Started](#getting-started)
-- [Prerequisites](#prerequisites)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-
----
-
 ## About the Project
 
 **Restaurant** is a web application designed to showcase a restaurant's menu, services, and ambiance. Built with Next.js 15 for high performance and SEO optimization, the project leverages Tailwind CSS for design, Swiper for responsive sliders, and React Icons to make the user interface clean and interactive.
