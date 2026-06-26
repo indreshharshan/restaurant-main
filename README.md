@@ -1,4 +1,4 @@
-![Restaurant Website Cover](./public/cover.png)
+<img width="1338" height="600" alt="image" src="https://github.com/user-attachments/assets/6fdfe9a2-3bd8-4880-a6dc-63f3a9cb0eb2" />
 
 # Restaurant
 
@@ -53,7 +53,7 @@ Make sure you have the following tools installed:
 
 1. **Clone the Repository**
  ```bash
- git clone https://github.com/ShohorabHShawon/restaurant.git
+ git clone https://github.com/indreshharshan/restaurant-main.git
  ```
 2. Navigate to the Project Directory
  ```bash
